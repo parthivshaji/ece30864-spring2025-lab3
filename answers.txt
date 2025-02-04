@@ -10,3 +10,17 @@ Higher Resource Demand – Agile requires constant collaboration, which may lead
 b. 
 The Scrum Master acts as a facilitator and coach for the Scrum team, ensuring that the Scrum framework is followed and removing any obstacles that hinder progress. They work closely with the team to improve processes, promote collaboration, and support continuous improvement.
 The Product Owner is responsible for defining and prioritizing the product backlog, ensuring that the team delivers value to the business by clearly communicating requirements and objectives. They act as the main liaison between the stakeholders and the development team, ensuring the product aligns with customer needs and expectations.
+
+c.
+The three main types of meetings during a sprint cycle are Sprint Planning, Daily Scrum (Standup), and Sprint Review:
+## Sprint Planning
+Sprint Goal: Define the objective of the sprint and the work needed to achieve it.
+Backlog Items: Select which items from the product backlog will be worked on during the sprint, breaking them down into tasks.
+
+## Daily Scrum (Standup)
+Progress Update: Each team member shares what they’ve completed since the last meeting.
+Obstacles: Identify any blockers or issues that need attention for the team to proceed smoothly.
+
+## Sprint Review
+Completed Work: Demonstrate the work done during the sprint, including features or functionality completed.
+Stakeholder Feedback: Gather feedback from stakeholders to adjust the product backlog or sprint planning for future iterations.
