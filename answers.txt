@@ -1,1 +1,8 @@
+a.
+Pros of Agile:
+Flexibility & Adaptability – Agile allows for quick adjustments based on feedback, making it ideal for evolving requirements.
+Faster Delivery – Continuous iterations and early releases enable quicker time-to-market and user feedback integration.
 
+Cons of Agile:
+Less Predictability – Frequent changes can make long-term planning, budgeting, and deadlines harder to estimate.
+Higher Resource Demand – Agile requires constant collaboration, which may lead to increased time commitment from team members.
