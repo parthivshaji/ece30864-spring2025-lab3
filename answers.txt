@@ -24,3 +24,9 @@ Obstacles: Identify any blockers or issues that need attention for the team to p
 ## Sprint Review
 Completed Work: Demonstrate the work done during the sprint, including features or functionality completed.
 Stakeholder Feedback: Gather feedback from stakeholders to adjust the product backlog or sprint planning for future iterations.
+
+d.
+Epic: A large body of work that can be broken down into smaller, manageable pieces (Stories). Typically, an Epic spans multiple sprints and addresses a major feature or initiative.
+Story: A user-centric work item that defines a small, deliverable feature or function from the user's perspective. Stories are broken down from Epics and are usually completed in a single sprint.
+Bug: A defect or issue in the system that prevents it from working as intended. Bugs are typically discovered during testing or user feedback and need to be fixed within the sprint.
+Task: A specific, actionable piece of work that may not directly be tied to a user story or feature. Tasks are often related to non-user-facing work like technical improvements or setup tasks and can vary in size.
