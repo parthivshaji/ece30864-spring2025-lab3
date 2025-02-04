@@ -6,3 +6,7 @@ Faster Delivery – Continuous iterations and early releases enable quicker time
 Cons of Agile:
 Less Predictability – Frequent changes can make long-term planning, budgeting, and deadlines harder to estimate.
 Higher Resource Demand – Agile requires constant collaboration, which may lead to increased time commitment from team members.
+
+b. 
+The Scrum Master acts as a facilitator and coach for the Scrum team, ensuring that the Scrum framework is followed and removing any obstacles that hinder progress. They work closely with the team to improve processes, promote collaboration, and support continuous improvement.
+The Product Owner is responsible for defining and prioritizing the product backlog, ensuring that the team delivers value to the business by clearly communicating requirements and objectives. They act as the main liaison between the stakeholders and the development team, ensuring the product aligns with customer needs and expectations.
